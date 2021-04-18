@@ -1,1 +1,1 @@
-#Algorithms I developed for CS50x.
+Algorithms I developed for CS50x.
